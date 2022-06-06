@@ -1,6 +1,6 @@
 # animated-grid-website
 a website design with a grid layout and fun animations that anyone can use
-
+The background colors are just to try to get the grid size correct for future content that will go inside of them.
 ![Screenshot (44)](https://user-images.githubusercontent.com/99539947/172102875-1dff939b-59f6-4fa3-b05e-9234efab3af8.png)
 
 
